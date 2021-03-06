@@ -1,6 +1,15 @@
 # roadmap-frontend
 
-This repository is a Roadmap to guide beginners to become a front-end developer, stronmgly based on https://roadmap.sh/
+This repository is a Roadmap to guide beginners to become a front-end developer, strongly based on https://roadmap.sh/
+
+## Personal Advices
+
+- Practice over all, always practice, if you wanna learn to code you need to code alot!
+- Breathe code, eat code; Consume more developer culture as books, articles, podcasts and videos about dev stuff.
+- You don't need to undestand everything, sometimes you just don't need to know at all, you don't need to know how a hammer work to use it.
+- Persist, learn hurts and always will, but worth and always will.
+- Code is about do things that you never have done before and have no idea how to do, code is learn every day forever, no one know everything and never will, don't be afraid to risk.
+
 
 ## Begin by the holy trinity HTML/CSS/JS
 
@@ -12,6 +21,7 @@ This repository is a Roadmap to guide beginners to become a front-end developer,
 - Let's play a little bittle with GIT - https://learngitbranching.js.org/?locale=pt_BR
 - Let's play with responsive layouts with Flexbox - https://flexboxfroggy.com/
 - Let's play with responsive layouts with Grid - https://cssgridgarden.com/
+- Let's play with the linux terminal - https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
 
 
 Trusted Reference to guide in HTML, CSS and Javascript:
@@ -25,6 +35,8 @@ www.w3schools.com, https://developer.mozilla.org/pt-BR/docs/Web
 
 ![Roadmap image from roadmap.sh](https://roadmap.sh/roadmaps/frontend.png)
 
-Keywords: Javascript, HTML, CSS, GIT, DOM, React, HTTP, Browser, Responsive (webpages), Flexbox (style, responsive, css), Grid (style, responsive, css), UI, UX, Ecmascript, TC239, 
+Keywords: Javascript, HTML, CSS, GIT, DOM, React, HTTP, Browser, Responsive (webpages), Flexbox (style, responsive, css), Grid (style, responsive, css), UI, UX, Linux, Ecmascript, TC239, 
+
+
 
 ##### with love <3 
