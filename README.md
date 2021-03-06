@@ -5,10 +5,10 @@ This repository is a Roadmap to guide beginners to become a front-end developer,
 ## Personal Advices
 
 - Practice over all, always practice, if you wanna learn to code you need to code alot!
-- Breathe code, eat code; Consume more developer culture as books, articles, podcasts and videos about dev stuff.
-- You don't need to undestand everything, sometimes you just don't need to know at all, you don't need to know how a hammer work to use it.
-- Persist, learn hurts and always will, but worth and always will.
-- Code is about do things that you never have done before and have no idea how to do, code is learn every day forever, no one know everything and never will, don't be afraid to risk.
+- Breathe code, eat code; Consume more developer culture like books, articles, podcasts, and videos about dev stuff.
+- You don't need to understand everything, sometimes you just don't need to understand at all, you don't need to know how a hammer work to use it.
+- Persist! Learn hurts and always will, but worth and always will.
+- Code is about doing things that you never have done before and have no idea how to do, code is learning every day forever, no one knows everything and never will, don't be afraid to risk.
 
 
 ## Begin by the holy trinity HTML/CSS/JS
