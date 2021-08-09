@@ -37,7 +37,8 @@ www.w3schools.com, https://developer.mozilla.org/pt-BR/docs/Web
 
 https://play.google.com/store/apps/details?id=com.ryzac.codecademygo&hl=pt_BR&gl=US
 
-Keywords: Javascript, HTML, CSS, GIT, DOM, React, HTTP, Browser, Responsive (webpages), Flexbox (style, responsive, css), Grid (style, responsive, css), UI, UX, Linux, Ecmascript, TC239, 
+
+Keywords. Try searching Google, Youtube, Wikipedia for these terms and understand the big picture: Javascript, HTML, CSS, GIT, DOM, React, HTTP, Browser, Responsive (webpages), Flexbox (style, responsive, css), Grid (style, responsive, css), UI, UX, Linux, Ecmascript, TC39, 
 
 
 
